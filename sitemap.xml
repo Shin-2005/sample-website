@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/</loc>
+      <loc>https://shin-2005.github.io/sample-website/index.html</loc>
    </url>
    <url>
-      <loc>https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/about.html</loc>
+      <loc>https://shin-2005.github.io/sample-website/about.html</loc>
    </url>
    <url>
-      <loc>https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/products.html</loc>
+      <loc>https://shin-2005.github.io/sample-website/products.html</loc>
    </url>
    <url>
-      <loc>https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/contact.html</loc>
+      <loc>https://shin-2005.github.io/sample-website/contact.html</loc>
    </url>
 </urlset>
 
